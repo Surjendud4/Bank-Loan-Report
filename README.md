@@ -67,6 +67,21 @@ Each value meticulously presented within the dashboards undergoes exhaustive val
 
 ![9](https://github.com/Surjendud4/bank-loan-report/assets/168835348/f7021b75-2529-4b49-8204-0be113ce6b47)
 
+![10](https://github.com/Surjendud4/bank-loan-report/assets/168835348/5f4f22d3-1c0a-41c7-92c2-806f8b5202e2)
+
+![11](https://github.com/Surjendud4/bank-loan-report/assets/168835348/f4d08014-06cb-4284-bfdb-e241c7762053)
+
+![12](https://github.com/Surjendud4/bank-loan-report/assets/168835348/ddbb7687-bf7f-4da9-bb7a-90dd9a9d2aba)
+
+![13](https://github.com/Surjendud4/bank-loan-report/assets/168835348/8f370296-5c6f-4ca0-a475-bd3cd885b28a)
+
+![14](https://github.com/Surjendud4/bank-loan-report/assets/168835348/73fdc8f2-9b4b-4ac4-bd18-8eb20fe8a8e9)
+
+
+
+
+
+
 
 
 
