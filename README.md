@@ -98,18 +98,3 @@ Each value meticulously presented within the dashboards undergoes exhaustive val
 ![17](https://github.com/Surjendud4/bank-loan-report/assets/168835348/8616ceb7-55a5-4a3e-ae2a-69f1df4bd80a)
 
 ![18](https://github.com/Surjendud4/bank-loan-report/assets/168835348/5c131636-cc68-4f5f-a32f-d64617f5ad9c)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
