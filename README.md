@@ -48,4 +48,29 @@ Implemented seamless page navigation for effortless transition among the three d
 # Confidence is warranted:
 Each value meticulously presented within the dashboards undergoes exhaustive validation, rigorously confirmed through PostgreSQL queries. Your trust in the precision of every metric is well-founded.
 
+
 ![1](https://github.com/Surjendud4/bank-loan-report/assets/168835348/a08577df-820c-4c5a-9fef-4ebb8ab444ff)
+
+![2](https://github.com/Surjendud4/bank-loan-report/assets/168835348/0e882093-1d6f-40e3-9b50-28d187106b90)
+
+![3](https://github.com/Surjendud4/bank-loan-report/assets/168835348/f6a3c3b1-0a38-492d-bef7-352812713f06)
+
+![4](https://github.com/Surjendud4/bank-loan-report/assets/168835348/1a5117e9-7aec-4c1e-bb01-867d965ecb19)
+
+![5](https://github.com/Surjendud4/bank-loan-report/assets/168835348/154a0a04-1ed3-47ef-ad3f-1738d9e2125a)
+
+![6](https://github.com/Surjendud4/bank-loan-report/assets/168835348/459dd3cc-3b81-4520-b359-dda79a10664a)
+
+![7](https://github.com/Surjendud4/bank-loan-report/assets/168835348/918aeba5-dd19-4010-b90d-d0004468049b)
+
+![8](https://github.com/Surjendud4/bank-loan-report/assets/168835348/b4f51b48-9d4c-4cce-80ed-5b89bdc2de04)
+
+![9](https://github.com/Surjendud4/bank-loan-report/assets/168835348/f7021b75-2529-4b49-8204-0be113ce6b47)
+
+
+
+
+
+
+
+
