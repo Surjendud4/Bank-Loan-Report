@@ -45,4 +45,5 @@ It offers a comprehensive breakdown of key metrics essential for a nuanced under
 
 Implemented seamless page navigation for effortless transition among the three dashboards within the application.
 
-* Confidence is warranted: each value meticulously presented within the dashboards undergoes exhaustive validation, rigorously confirmed through PostgreSQL queries. Your trust in the precision of every metric is well-founded.
+# Confidence is warranted:
+each value meticulously presented within the dashboards undergoes exhaustive validation, rigorously confirmed through PostgreSQL queries. Your trust in the precision of every metric is well-founded.
