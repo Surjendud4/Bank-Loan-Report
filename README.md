@@ -27,7 +27,7 @@ iv) Bad Loan Total Received Amount
 
 8. Loan Status Grid View
 
-Over View Dashboard:
+# OverView-Dashboard:
 CHARTS
 1. Monthly Trending by Issue Date
 2. Regional Analysis by State
@@ -36,7 +36,7 @@ CHARTS
 5. Loan Purpose Breakdown
 6. Home Ownership Analysis
 
-Details Dashboard:
+# Details-Dashboard:
 It offers a comprehensive breakdown of key metrics essential for a nuanced understanding of loan performance. Delving into granular details, this dashboard meticulously presents data points including ID, purpose, home ownership status, loan grade, subgrade, issue date, funded amount, interest rate, installment amount, and received payment amount. By providing this detailed insight, the 'Details Dashboard' empowers stakeholders to make informed decisions and optimize loan strategies with precision
 
 Implemented seamless page navigation for effortless transition among the three dashboards within the application.
