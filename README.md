@@ -36,12 +36,17 @@ iv) Bad Loan Total Received Amount
 
 # OverView-Dashboard:
 CHARTS
-1. Monthly Trending by Issue Date
-2. Regional Analysis by State
-3. Loan Term Analysis
-4. Employee Length Analysis
-5. Loan Purpose Breakdown
-6. Home Ownership Analysis
+1. Monthly Trending by Issue Date - To effectively pinpoint both seasonality patterns and enduring trends in lending activities.
+
+2. Regional Analysis by State - To pinpoint regions exhibiting significant lending activity and evaluate regional disparities.
+
+3. Loan Term Analysis - To enable the client to comprehend the distribution of loans across various durations.
+
+4. Employee Length Analysis - To analyze how lending metrics are dispersed among borrowers with varying lengths of employment, facilitating assessment of the impact of employment history on loan applications.
+
+5. Loan Purpose Breakdown - To offer a visual breakdown of loan metrics based on the stated purposes of loans, enhancing understanding of the primary reasons borrowers seek financing.
+
+6. Home Ownership Analysis - To provide a hierarchical view of how home ownership influences loan applications and disbursements.
 
    ![Over View](https://github.com/Surjendud4/bank-loan-report/assets/168835348/f8e0b863-ade0-488a-85c3-ca228bb9e475)
 
