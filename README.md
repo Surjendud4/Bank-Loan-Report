@@ -47,3 +47,5 @@ Implemented seamless page navigation for effortless transition among the three d
 
 # Confidence is warranted:
 Each value meticulously presented within the dashboards undergoes exhaustive validation, rigorously confirmed through PostgreSQL queries. Your trust in the precision of every metric is well-founded.
+
+![1](https://github.com/Surjendud4/bank-loan-report/assets/168835348/a08577df-820c-4c5a-9fef-4ebb8ab444ff)
