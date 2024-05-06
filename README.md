@@ -1,4 +1,4 @@
-# bank-loan-report
+# Bank Loan Report
 
 I'm thrilled to share a glimpse into my latest project, Bank Loan Analysis, which I've undertaken with great enthusiasm! 💼
 (While sparked by a YouTube video but the DAX formulas unveiled here shine as a testament to my individual flair and expertise)
