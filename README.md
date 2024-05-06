@@ -6,11 +6,15 @@ I'm thrilled to share a glimpse into my latest project, Bank Loan Analysis, whic
 Crafted three bespoke dashboards, each unveiling unique problem statements necessitating tailored solutions to tackle precise business challenges
 
 # Summary-Dashboard:
-1. Total Loan Applications
-2. Total Funded Amount
-3. Total Amount Received
-4. Average Interest Rate
-5. Average DTI (Debt-to-Income)
+1. Total Loan Applications - We need to tally the total number of loan applications received within a specified period. Additionally, it's important to keep an eye on Month-to-Date (MTD) Loan Applications and monitor changes Month-over-Month (MoM).
+
+2. Total Funded Amount - Gaining insight into the total amount of funds disbursed as loans is pivotal. Additionally, we aim to monitor the Month-to-Date (MTD) Total Funded Amount and analyze the Month-over-Month (MoM) changes in this metric.
+
+3. Total Amount Received - Monitoring the total amount received from borrowers is imperative for evaluating the bank's cash flow and loan repayment dynamics. It's crucial to analyze the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month (MoM) fluctuations.
+
+4. Average Interest Rate - Deriving the average interest rate across all loans and tracking Month-to-Date (MTD) variations provides valuable insights into our lending portfolio's cost dynamics. Additionally, monitoring Month-over-Month (MoM) changes in interest rates enhances our understanding of portfolio performance.
+
+5. Average DTI (Debt-to-Income) - Assessing the average Debt-to-Income (DTI) ratio for our borrowers is instrumental in understanding their financial well-being. It's imperative to calculate the average DTI for all loans, monitor Month-to-Date (MTD) trends, and track Month-over-Month (MoM) fluctuations for comprehensive insights.
 
 6. Good Loan Vs Bad Loan KPI's
 Good Loan:
