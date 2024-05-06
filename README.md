@@ -31,6 +31,9 @@ iv) Bad Loan Total Received Amount
 
 8. Loan Status Grid View
 
+9. ![Summary](https://github.com/Surjendud4/bank-loan-report/assets/168835348/c2b42f65-1720-4830-86f3-457c3de820af)
+
+
 # OverView-Dashboard:
 CHARTS
 1. Monthly Trending by Issue Date
@@ -40,8 +43,14 @@ CHARTS
 5. Loan Purpose Breakdown
 6. Home Ownership Analysis
 
+7. ![Over View](https://github.com/Surjendud4/bank-loan-report/assets/168835348/f8e0b863-ade0-488a-85c3-ca228bb9e475)
+
+
 # Details-Dashboard:
 It offers a comprehensive breakdown of key metrics essential for a nuanced understanding of loan performance. Delving into granular details, this dashboard meticulously presents data points including ID, purpose, home ownership status, loan grade, subgrade, issue date, funded amount, interest rate, installment amount, and received payment amount. By providing this detailed insight, the 'Details Dashboard' empowers stakeholders to make informed decisions and optimize loan strategies with precision
+
+![Detail Dashboard](https://github.com/Surjendud4/bank-loan-report/assets/168835348/af3519b6-062a-435e-9f1d-7af6c56b35cd)
+
 
 Implemented seamless page navigation for effortless transition among the three dashboards within the application.
 
@@ -76,6 +85,16 @@ Each value meticulously presented within the dashboards undergoes exhaustive val
 ![13](https://github.com/Surjendud4/bank-loan-report/assets/168835348/8f370296-5c6f-4ca0-a475-bd3cd885b28a)
 
 ![14](https://github.com/Surjendud4/bank-loan-report/assets/168835348/73fdc8f2-9b4b-4ac4-bd18-8eb20fe8a8e9)
+
+![15](https://github.com/Surjendud4/bank-loan-report/assets/168835348/33f79c47-69a3-4929-8cda-9060bd1258ca)
+
+![16](https://github.com/Surjendud4/bank-loan-report/assets/168835348/bd0080b0-1edc-4e56-89d9-0ec151154283)
+
+![17](https://github.com/Surjendud4/bank-loan-report/assets/168835348/8616ceb7-55a5-4a3e-ae2a-69f1df4bd80a)
+
+![18](https://github.com/Surjendud4/bank-loan-report/assets/168835348/5c131636-cc68-4f5f-a32f-d64617f5ad9c)
+
+
 
 
 
