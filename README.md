@@ -31,7 +31,7 @@ iv) Bad Loan Total Received Amount
 
 8. Loan Status Grid View
 
-9. ![Summary](https://github.com/Surjendud4/bank-loan-report/assets/168835348/c2b42f65-1720-4830-86f3-457c3de820af)
+   ![Summary](https://github.com/Surjendud4/bank-loan-report/assets/168835348/c2b42f65-1720-4830-86f3-457c3de820af)
 
 
 # OverView-Dashboard:
@@ -43,7 +43,7 @@ CHARTS
 5. Loan Purpose Breakdown
 6. Home Ownership Analysis
 
-7. ![Over View](https://github.com/Surjendud4/bank-loan-report/assets/168835348/f8e0b863-ade0-488a-85c3-ca228bb9e475)
+   ![Over View](https://github.com/Surjendud4/bank-loan-report/assets/168835348/f8e0b863-ade0-488a-85c3-ca228bb9e475)
 
 
 # Details-Dashboard:
